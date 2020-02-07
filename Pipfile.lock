@@ -1,15 +1,15 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ed63b31f068d51bac7a2fd34e605f75dbafcc8c96209103c96edcd09c836d424"
+            "sha256": "de283a9a45161ebdb98d5437b772fb9c032d1654e7fb2d9f379eeee8be515e8a"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.7"
+            "python_version": "3"
         },
         "sources": [
             {
-                "name": "pypi",
+                "name": "second-brain",
                 "url": "https://pypi.org/simple",
                 "verify_ssl": true
             }
